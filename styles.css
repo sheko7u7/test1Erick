@@ -1,0 +1,30 @@
+.tarjeta {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.tarjeta img {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.tarjeta h2 {
+    color: #007bff;
+}
+
+.tarjeta p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+h1{
+    color: blue;
+}
+p{
+    color:#007bff;
+}
