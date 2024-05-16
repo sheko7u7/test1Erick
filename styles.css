@@ -28,3 +28,17 @@ h1{
 p{
     color:#007bff;
 }
+
+.btn-peligro {
+    background-color: #ff0000; /* Rojo */
+    color: #ffffff; /* Blanco */
+    padding: 10px 20px; /* Espacio interno */
+    font-size: 16px; /* Tamaño de fuente */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cursor de puntero */
+  }
+  
+  .btn-peligro:hover {
+    background-color: #cc0000; /* Rojo más oscuro al pasar el mouse */
+  }
